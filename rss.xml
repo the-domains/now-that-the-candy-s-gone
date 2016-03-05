@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Now That The Candy's Gone]]></title>
-        <description><![CDATA[Now That The Candy's Gone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[How I Learn About Life Success]]></title>
+        <description><![CDATA[How I Learn About Life Success]]></description>
+        <link>https://thegrid.ai/now-that-the-candy-s-gone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 00:34:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 00:05:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/now-that-the-candy-s-gone/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b6217f4-f83e-4923-81f7-a29f14e166c4.jpg">]]></description>
-            <link>undefined33d2efee-9c60-40c9-8b5e-1a5ac943da4e/index.html</link>
+            <link>https://thegrid.ai/now-that-the-candy-s-gone/33d2efee-9c60-40c9-8b5e-1a5ac943da4e/index.html</link>
             <guid isPermaLink="false">33d2efee-9c60-40c9-8b5e-1a5ac943da4e</guid>
-            <pubDate>Tue, 02 Feb 2016 00:34:25 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 00:05:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
